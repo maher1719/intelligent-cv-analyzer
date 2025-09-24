@@ -7,7 +7,8 @@ import os
 # --- CONFIGURATION ---
 # IMPORTANT: Put your Google AI API Key here
 # You can get one from https://aistudio.google.com/app/apikey
-API_KEY = "AIzaSyAD30hzssF3ozDEM1RFi97bVHJQNBMQSfY" 
+# TODO your API GOOGLE AI KEY
+API_KEY = "YOUR_API_KEY" 
 
 # Input file to get the master list of skills from
 # This should be your main co-occurrence matrix file
