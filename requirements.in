@@ -1,0 +1,18 @@
+# Core application libraries
+streamlit
+pandas
+google-generativeai
+
+# File parsing libraries
+PyPDF2<3.0.0
+docx2txt
+
+# Data analysis libraries
+networkx
+scikit-learn
+numpy
+
+# Utility libraries
+tqdm
+
+pip-tools

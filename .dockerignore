@@ -1,0 +1,19 @@
+ Git files
+.git
+.gitignore
+
+# Raw data folders - DO NOT INCLUDE IN THE IMAGE
+/resumes/
+/jobs/
+/linkedIn/
+/online_courses/
+*.csv
+# Python virtual environment and cache
+venv/
+scrap2/
+scrap/
+__pycache__/
+*.pyc
+
+# Temporary files
+temp/
